@@ -18,3 +18,4 @@ torchaudio
 tqdm==4.63.0
 Ninja
 pydub
+wandb
