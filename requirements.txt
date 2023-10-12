@@ -13,6 +13,7 @@ SoundFile==0.12.1
 tensorboard==2.13
 torch==2.0.1
 torch-ema
+torchvision==0.2.2
 torchaudio
 tqdm==4.63.0
 Ninja
