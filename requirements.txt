@@ -6,14 +6,14 @@ pesq==0.0.4
 pyroomacoustics==0.6.0
 PySoundFile==0.9.0.post1
 pystoi==0.3.3
-pytorch-lightning==1.8.3
+pytorch-lightning
 scipy==1.8.0
 sdeint==0.2.4
 SoundFile==0.12.1
 tensorboard==2.13
 torch==2.0.1
-torch-ema==0.3
-torchaudio==0.11.0
+torch-ema
+torchaudio
 tqdm==4.63.0
 Ninja
 pydub
